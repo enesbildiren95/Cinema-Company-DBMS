@@ -1,0 +1,9 @@
+C:\Users\Enes_\source\repos\WebSite_last\FacadeLayer\bin\Debug\FacadeLayer.dll
+C:\Users\Enes_\source\repos\WebSite_last\FacadeLayer\bin\Debug\FacadeLayer.pdb
+C:\Users\Enes_\source\repos\WebSite_last\FacadeLayer\bin\Debug\EntityLayer.dll
+C:\Users\Enes_\source\repos\WebSite_last\FacadeLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Enes_\source\repos\WebSite_last\FacadeLayer\obj\Debug\FacadeLayer.csprojAssemblyReference.cache
+C:\Users\Enes_\source\repos\WebSite_last\FacadeLayer\obj\Debug\FacadeLayer.csproj.CoreCompileInputs.cache
+C:\Users\Enes_\source\repos\WebSite_last\FacadeLayer\obj\Debug\FacadeLayer.csproj.CopyComplete
+C:\Users\Enes_\source\repos\WebSite_last\FacadeLayer\obj\Debug\FacadeLayer.dll
+C:\Users\Enes_\source\repos\WebSite_last\FacadeLayer\obj\Debug\FacadeLayer.pdb
